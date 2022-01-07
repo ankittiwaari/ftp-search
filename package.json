@@ -1,7 +1,7 @@
 {
-  "name": "@nkittiwaari/ftp-search",
-  "version": "1.0.0",
-  "description": "Simple package to serch for a file usint FTP",
+  "name": "@ankittiwaari/ftp-search",
+  "version": "1.0.1",
+  "description": "Simple package to search for a file using FTP",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,5 +22,6 @@
   "homepage": "https://github.com/ankittiwaari/ftp-search#readme",
   "dependencies": {
     "basic-ftp": "^4.6.6"
-  }
+  },
+  "devDependencies": {}
 }
