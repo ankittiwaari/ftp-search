@@ -1,5 +1,5 @@
 {
-  "name": "ftp-search",
+  "name": "@nkittiwaari/ftp-search",
   "version": "1.0.0",
   "description": "Simple package to serch for a file usint FTP",
   "main": "index.js",
