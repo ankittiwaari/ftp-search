@@ -7,7 +7,7 @@ It has the following limitations at present that are to be removed in subsequent
 
 # Usage
 ```js
-const FTPSearch = require('@nkittiwaari/ftp-search');
+const FTPSearch = require('@ankittiwaari/ftp-search');
 (async () => {
     let ftp = new FTPSearch({
         host: '<ftp-host>',
