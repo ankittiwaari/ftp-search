@@ -1,0 +1,26 @@
+{
+  "name": "ftp-search",
+  "version": "1.0.0",
+  "description": "Simple package to serch for a file usint FTP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankittiwaari/ftp-search.git"
+  },
+  "keywords": [
+    "ftp",
+    "ftp-search"
+  ],
+  "author": "Ankit Tiwari",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ankittiwaari/ftp-search/issues"
+  },
+  "homepage": "https://github.com/ankittiwaari/ftp-search#readme",
+  "dependencies": {
+    "basic-ftp": "^4.6.6"
+  }
+}
