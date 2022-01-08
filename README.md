@@ -17,7 +17,8 @@ const FTPSearch = require('@ankittiwaari/ftp-search');
         ignoredDirs: [
             'dirname1',
             'dirname2',
-        ] // list of directories to ignore
+        ], // list of directories to ignore
+        maxRecursion: 4 // (Optional) maximum depth the search should continue. The default value is 4 
     });
     await ftp.connect();
     let path = await ftp.searchFile()
